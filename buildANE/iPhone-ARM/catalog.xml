@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding ="utf-8"?>
+<swc xmlns="http://www.adobe.com/flash/swccatalog/9">
+  <versions>
+    <swc version="1.2" />
+    <flex version="4.6.0" build="23201" minimumSupportedVersion="3.0.0" />
+  </versions>
+  <features>
+    <feature-script-deps />
+    <feature-files />
+  </features>
+  <libraries>
+    <library path="library.swf">
+      <script name="_50991786bc8c95bc46d54b99d077a99e87c49d1208c3efcd8996590f7ffff5d0_flash_display_Sprite" mod="1398175538769" signatureChecksum="2221963961" >
+        <def id="_50991786bc8c95bc46d54b99d077a99e87c49d1208c3efcd8996590f7ffff5d0_flash_display_Sprite" /> 
+        <dep id="flash.system:Security" type="e" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="flash.display:Sprite" type="i" /> 
+      </script>
+      <script name="com/admod/ane/AdmodExtension" mod="1398175532000" signatureChecksum="2310439739" >
+        <def id="com.admod.ane:AdmodExtension" /> 
+        <dep id="flash.events:StatusEvent" type="e" /> 
+        <dep id="flash.external:ExtensionContext" type="e" /> 
+        <dep id="flash.events:IEventDispatcher" type="s" /> 
+        <dep id="flash.events:StatusEvent" type="s" /> 
+        <dep id="flash.external:ExtensionContext" type="s" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="flash.events:EventDispatcher" type="i" /> 
+      </script>
+      <script name="com/admod/ane/AdmodEvent" mod="1398097919000" signatureChecksum="82719654" >
+        <def id="com.admod.ane:AdmodEvent" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="Object" type="i" /> 
+      </script>
+      <digests>
+        <digest type="SHA-256" signed="false" value="41a745326d4d879b42641e8f2a7d77bc89b6f0d2e1b35a4b42d52f621e9d3447"   />
+      </digests>
+    </library>
+  </libraries>
+  <files>
+  </files>
+</swc>

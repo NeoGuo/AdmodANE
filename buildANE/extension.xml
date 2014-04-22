@@ -1,0 +1,14 @@
+<extension xmlns="http://ns.adobe.com/air/extension/3.9">
+    <id>com.admod.ane.AdmodsANE</id>
+    <versionNumber>1</versionNumber>
+    <platforms>
+        
+		<platform name="iPhone-ARM">
+            <applicationDeployment>
+                <nativeLibrary>libAdmodsANE.a</nativeLibrary>
+                <initializer>AdmodANEExtInitializer</initializer>
+                <finalizer>AdmodANEExtFinalizer</finalizer>
+            </applicationDeployment>
+        </platform>
+    </platforms>
+</extension>
